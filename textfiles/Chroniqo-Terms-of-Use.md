@@ -26,7 +26,7 @@ You may not use the Services if applicable law prohibits you from doing so or if
 
 You must provide accurate, current information and keep it updated. You are responsible for safeguarding your login credentials and for activity carried out through your account, except where that activity results from our failure to apply appropriate security measures.
 
-You must notify us promptly at [INSERT SUPPORT EMAIL] if you suspect unauthorised access, loss of credentials or another security incident affecting your account. You may not sell, transfer, share or impersonate another person's account without our written permission.
+You must notify us promptly at koen.d@telenet.be if you suspect unauthorised access, loss of credentials or another security incident affecting your account. You may not sell, transfer, share or impersonate another person's account without our written permission.
 
 ## 4. Licence to use Chroniqo
 

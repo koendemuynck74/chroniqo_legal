@@ -70,7 +70,7 @@ Chroniqo does not use personal data for third-party behavioural advertising and 
 
 Sports activities, performance metrics and goals are not always health data. Depending on their detail, context and use, however, they may reveal information about a person's health and may qualify as special-category personal data under the GDPR.
 
-Where our processing of sports data is considered processing of health data or another special category, we will rely on your explicit consent or another lawful condition available under Article 9 of the GDPR. You may withdraw consent at any time through [INSERT CONSENT-WITHDRAWAL METHOD] or by contacting us. Withdrawal does not affect processing already lawfully carried out, but it may prevent us from providing features that require that data.
+Where our processing of sports data is considered processing of health data or another special category, we will rely on your explicit consent or another lawful condition available under Article 9 of the GDPR. You may withdraw consent at any time by contacting us. Withdrawal does not affect processing already lawfully carried out, but it may prevent us from providing features that require that data.
 
 Chroniqo is a sports productivity tool and is not intended to store medical records or provide medical diagnosis or treatment.
 
@@ -85,7 +85,7 @@ We may share personal data only as described below:
 - **Authorities and legal recipients:** courts, regulators, law-enforcement bodies or other parties where disclosure is required by law or reasonably necessary to protect rights, safety and security.
 - **Business transfers:** a buyer, investor or successor in connection with a merger, financing, restructuring, acquisition or sale, subject to appropriate confidentiality and data-protection safeguards.
 
-Our principal processors and their processing locations are listed at [INSERT SUBPROCESSOR LIST URL]. We require processors to protect personal data, process it only on documented instructions and assist us with applicable data-protection obligations.
+We require processors to protect personal data, process it only on documented instructions and assist us with applicable data-protection obligations.
 
 We do not make private sports or account data public unless you choose to share it or disclosure is otherwise described in this Policy.
 
@@ -101,12 +101,12 @@ We retain personal data only for as long as needed for the purposes described in
 
 | Data | Intended retention |
 | --- | --- |
-| Account and profile data | While the account is active, then deleted or anonymised within [INSERT PERIOD] after account deletion, subject to backups and legal holds |
-| Sports, activity and productivity data | While the account is active, then deleted or anonymised within [INSERT PERIOD] after account deletion |
-| Backup copies | Removed through the normal backup cycle within [INSERT PERIOD], unless retention is legally required |
-| Subscription, invoice and transaction records | [INSERT PERIOD CONSISTENT WITH BELGIAN ACCOUNTING AND TAX OBLIGATIONS] |
-| Support communications | [INSERT PERIOD] after the request is resolved |
-| Security, access and diagnostic logs | [INSERT PERIOD], unless needed longer to investigate an incident or legal claim |
+| Account and profile data | While the account is active, then deleted or anonymised after account deletion, subject to backups and legal holds |
+| Sports, activity and productivity data | While the account is active, then deleted or anonymised after account deletion |
+| Backup copies | Removed through the normal backup cycle, unless retention is legally required |
+| Subscription, invoice and transaction records consistent with Belgian accountancy rules.
+| Support communications | 1 year after the request is resolved |
+| Security, access and diagnostic logs, unless needed longer to investigate an incident or legal claim |
 | Consent records | For as long as needed to demonstrate compliance and during applicable limitation periods |
 
 We may retain data longer where required by law, needed for a legal claim, or necessary to protect the Services and users from fraud or abuse. Where possible, we anonymise data that no longer needs to identify you.
@@ -125,7 +125,7 @@ Subject to applicable law, you may have the right to:
 - withdraw consent at any time where processing relies on consent; and
 - lodge a complaint with a competent data-protection authority.
 
-To exercise a right, use [INSERT IN-APP PRIVACY METHOD] or contact [INSERT PRIVACY EMAIL]. We may need to verify your identity before acting. We will respond within the period required by applicable law, normally within one month under the GDPR. Rights may be limited where a lawful exception applies.
+To exercise a right, contact koen.d@telenet.be. We may need to verify your identity before acting. We will respond within the period required by applicable law, normally within one month under the GDPR. Rights may be limited where a lawful exception applies.
 
 If you live in Belgium, you may lodge a complaint with:
 
